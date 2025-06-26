@@ -47,18 +47,24 @@ My goal for **<a href="https://modsoft.online" target="_blank">modsoft.online</a
 <!-- Контакты и стек технологий -->
 <table width="100%">
   <tr>
+    <!-- Левая колонка: Контакты -->
     <td width="50%" valign="top">
       <h3>🔗 Connect with Me</h3>
       <p align="left">
-        <a href="https://t.me/Sablecore" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-        <a href="https://github.com/SableRoot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-        <!-- Добавьте сюда другие контакты, если нужно -->
+        <!-- Ссылки в виде иконок, как вы и хотели -->
+        <a href="https://t.me/Sablecore" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        </a>
+        <a href="mailto:SableRoot@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        <!-- Если захотите добавить LinkedIn или другие сети, делайте это по аналогии -->
       </p>
     </td>
+    <!-- Правая колонка: Стек технологий -->
     <td width="50%" valign="top">
       <h3>🛠️ My Tech Stack</h3>
       <p align="left">
-        <!-- Настройте стек под себя -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
         <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
         <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
