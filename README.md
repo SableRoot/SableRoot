@@ -4,7 +4,7 @@
 </p>
 
 <!-- Ваше имя (или ник) и главная идея/слоган. -->
-<h1 align="center">Hi, I'm SableRoot</h1>
+<h1 align="center">Hi, I'm Sable</h1>
 <h3 align="center">Creator of modsoft.online & Software Developer</h3>
 
 ---
@@ -14,7 +14,7 @@
 
 I'm a developer focused on creating useful and modern digital solutions.
 
-My main project is **<a href="https://modsoft.online" target="_blank">modsoft.online</a>** — a platform dedicated to **[Discovering the best software, made easy.]**.
+My main project is **<a href="https://modsoft.online" target="_blank">modsoft.online</a>** — a platform dedicated to **Discovering the best software, made easy.**.
 
 - 🌱 I’m constantly exploring new technologies to improve my projects.
 - 💬 Feel free to reach out to me for collaborations or just to chat about tech!
