@@ -5,7 +5,7 @@
 
 <!-- Имя и развернутый заголовок -->
 <div align="center">
-  <h1>Hi, I'm SableRoot</h1>
+  <h1>Hi, I'm Sable</h1>
   <h3>A passionate software developer and the creator of modsoft.online</h3>
   <p>I build and share high-quality software solutions to enhance your digital experience.</p>
 </div>
@@ -19,21 +19,21 @@
 
 ### 👨‍💻 About Me
 
-I'm a self-motivated developer who enjoys turning ideas into reality through code. My main focus is on creating user-friendly applications and tools that are both powerful and easy to use.
+I'm a seasoned software developer with over a decade of experience in building robust and scalable applications. My passion lies in crafting high-quality tools that solve real-world problems, with a strong focus on clean architecture and an exceptional user experience.
 
-- 🔭 I’m currently working on my main project, **<a href="https://modsoft.online" target="_blank">modsoft.online</a>**. It's my primary focus and passion.
+- 🔭 I’m channeling all my expertise into my main project, **<a href="https://modsoft.online" target="_blank">modsoft.online</a>**, aiming to set a new standard for curated software distribution.
 
-- 🌱 I’m currently learning **[Здесь укажите технологию, которую изучаете, напр. 'advanced server-side rendering with Next.js' или 'cloud deployment with Docker and AWS']**.
+- 🌱 I’m currently exploring **the latest advancements in cross-platform development with Rust and Tauri** to bring even more powerful tools to my users.
 
-- 👯 I’m looking to collaborate on **[Здесь укажите тип проектов, напр. 'open-source browser extensions' или 'desktop utilities']**.
+- 👯 I’m open to collaborating on **ambitious open-source projects that challenge the status quo** in software development.
 
-- 🤝 I’m looking for help with **[Здесь укажите, с чем нужна помощь, напр. 'UI/UX design for my new project' или 'community building for modsoft.online']**.
+- 🤝 I’m looking for help with **community management and content creation** to grow the modsoft.online ecosystem.
 
-- 💬 Ask me about **[Темы, в которых вы хорошо разбираетесь, напр. 'JavaScript, React, or anything related to the software on my site']**.
+- 💬 Ask me about **software architecture, performance optimization, or the long-term vision behind modsoft.online**.
 
-- 📫 How to reach me: You can drop me a message on Telegram at **<a href="https://t.me/Sablecore">@Sablecore</a>** or send an email to **[ваша_почта@example.com]**.
+- 📫 How to reach me: You can drop me a message on Telegram at **<a href="https://t.me/Sablecore">@Sablecore</a>** or send an email to **SableRoot@gmail.com**.
 
-- ⚡ Fun fact: **[Короткий и интересный факт о вас на английском, например: 'I can solve a Rubik's cube in under a minute' или 'I believe a clean UI is as important as clean code']**.
+- ⚡ Fun fact: **I believe that the best code is the code that feels invisible to the user—it just works.**
 
 ---
 
